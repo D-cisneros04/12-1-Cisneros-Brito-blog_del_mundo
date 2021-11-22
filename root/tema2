@@ -5,20 +5,20 @@
     <title>Blog del Mundo</title>
 </head>
 <body>
-<!--inicia entrada:-->
+<!--inicia entrada:Especies en peligro de extinción-->
 <article>
     <header>
         <hgroup>
             <!--Título del artículo-->
-            <h2></h2>
+            <h2>Especies en peligro de extinción</h2>
             <!--Fecha en la que se escribio el artículo -->
             <h4>20/11/2021</h4>
         </hgroup>
     </header>
     <!--inicia contenido del artículo-->
     <div>
-        <h3></h3>
-        <p></p>
+        <h3>¿Cuantas especies se han extinto en los ultimos 100 años?</h3>
+        <p>Este articulo detalllará la cantidad de especies que se han extinto desde 1920, por que esto nos afecta como seres humanos, como sucede el problema y posibles maneras de resolverlo.</p>
     </div>
     <!--termina contenido del artículo-->
     <footer>
