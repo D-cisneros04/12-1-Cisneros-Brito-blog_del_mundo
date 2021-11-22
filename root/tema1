@@ -5,20 +5,20 @@
     <title>Blog del Mundo</title>
 </head>
 <body>
-<!--inicia entrada:-->
+<!--inicia entrada:La contaminación en el Medioambiente-->
 <article>
     <header>
         <hgroup>
             <!--Título del artículo-->
-            <h2></h2>
+            <h2>La contaminación en el Medioambiente</h2>
             <!--Fecha en la que se escribió el artículo -->
             <h4>21/11/2021</h4>
         </hgroup>
     </header>
     <!--inicia contenido del artículo-->
     <div>
-        <h3></h3>
-        <p></p>
+        <h3>Razones, soluciones y que representa</h3>
+        <p>el mundo ha sido contaminado horriblemente desde la revolución industrial, esto no ha parado y puede representar el fin de la humanidad tal y como la conocemos.</p>
     </div>
     <!--termina contenido del artículo-->
     <footer>
