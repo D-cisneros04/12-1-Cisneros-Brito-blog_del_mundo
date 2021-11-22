@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="esp">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog del Mundo</title>
+</head>
+<body>
+<!--inicia entrada:-->
+<article>
+    <header>
+        <hgroup>
+            <!--Título del artículo-->
+            <h2></h2>
+            <!--Fecha en la que se escribió el artículo -->
+            <h4>21/11/2021</h4>
+        </hgroup>
+    </header>
+    <!--inicia contenido del artículo-->
+    <div>
+        <h3></h3>
+        <p></p>
+    </div>
+    <!--termina contenido del artículo-->
+    <footer>
+    
+    </footer>
+</article>
+</body>
+</html>
