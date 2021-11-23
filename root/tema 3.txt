@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="esp">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog del Mundo</title>
+</head>
+<body>
+<!--inicia entrada:-->
+<article>
+    <header>
+        <hgroup>
+            <!--Título del artículo-->
+            <h2>La politica y la sociedad</h2>
+            <!--Fecha en la que se escribió el artículo -->
+            <h4>23 de noviembre del 2021</h4>
+        </hgroup>
+    </header>
+    <!--inicia contenido del artículo-->
+    <div>
+        <h3>La politica es la ciencia que trata del gobierno y la organizacion de las sociedades humanas, que principalmente es denomina en los estados de cada pais. La sociedades tienen qu estar de acuerdo de como puede estar mejor praparado el estado el pais que eligan como sus lideres</h3>
+        <p>La sociedad es el conjunto de personas que se relacionan entre si, de acuerdo a unas determinadas reglas de organizacion juridicas y puedan compartir una misma cultura o en un simple espacio</p>
+    </div>
+    <!--termina contenido del artículo-->
+    <footer> En conlcusion la verdadera razon dee la que la politica y la sociedad pueda convivr con las propuestas y seguir juntos para lograrlos
+    
+    </footer>
+</article>
+</body>
+</html>
