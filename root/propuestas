@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="esp">
+
 <head>
     <meta charset="UTF-8">
     <title>Blog del Mundo</title>
 </head>
+
 <body>
+<<<<<<< HEAD
 <!-- Tema 1 de Diego Cisneros -->
 <hgroup>
     <h1>contaminacion del medio hambiente</h1>
@@ -43,5 +46,50 @@
 </hgroup>
 <p></p>
 <!--fin del tema 2-->
+=======
+    <!-- Tema 1 de Diego Cisneros -->
+    <hgroup>
+        <h1>contaminacion del medio hambiente</h1>
+        <h3>energias renovables</h3>
+        <h3>containacion fossil</h3>
+        <h3>problemas posibles</h3>
+    </hgroup>
+    <p>Este tema hablba de que es la contaminacion en el medio hambiente sus posibles consecuencias y sus principales
+        causantes</p>
+    <!--fin del tema 1-->
+
+    <!-- Tema 2 de Diego Cisneros -->
+    <hgroup>
+        <h1>especies en peligro de extincion</h1>
+        <h3>razones que lo causan</h3>
+        <h3>posibles soluciones</h3>
+        <h3>como nos afecta</h3>
+    </hgroup>
+    <p>Este tema habla sobre especies en peligro de extincion, cuales son los principales causantes,posibles soluciones
+        y el como nos afecta de manera directa</p>
+    <!--fin del tema 2-->
+    <!-- Tema 1 de Carlo Brito -->
+    <hgroup>
+        <h1>La opinion publica y la comunicacion politica</h1>
+        <h3>Las propuestas que dan los politicos a la sociedad</h3>
+        <h3>Las elecciones</h3>
+        <h3>Opiniones de la sociedad</h3>
+    </hgroup>
+    <p>Este tema habla de todos los discursos que hacen los politicos hacia la sociedad y la moralidad de las propuestas
+    </p>
+    <!--fin del tema 1-->
+
+    <!-- Tema 2 de Crlo Brito -->
+    <hgroup>
+        <h1>La importancia de las canchas naturales en el ambito del deporte</h1>
+        <h3>Beneficios de estar en una cancha naturales</h3>
+        <h3>Consecuencias de las canchas cinteticas</h3>
+        <h3>Los ejercicios que hacen los deportistas</h3>
+    </hgroup>
+    <p>Este tema habla todos los deportes y las necesidades de estar en las canchas naturales, La ayuda del medio
+        ambiente en estar en campos</p>
+    <!--fin del tema 2-->
+>>>>>>> 754717d1413ac0e17acafafb8384713e694dfa37
 </body>
+
 </html>
