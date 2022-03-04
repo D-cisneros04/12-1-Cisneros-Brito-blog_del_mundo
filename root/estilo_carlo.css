@@ -1,0 +1,37 @@
+/*clases generales */
+body{
+    background-color: bisque;
+    color: aqua;
+}
+article{
+    background-color: rgb(44, 43, 43);
+    padding: 1.5rem;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(255, 255, 255);
+}
+/*Terminan clase generales */
+/* barra de navegacion*/
+nav>ul>li{
+    color: blue;
+    list-style: none;
+}
+.resaltado{
+    color: blue;
+}
+nav>ul>li>a{
+    text-decoration: none;
+}
+/*termina barra de navegacion*/
+/*ilustraciones*/
+.ilustracion {
+    border-width: 4px;
+    border-style: solid;
+    border-color: white;
+    display: inline;
+    /*border: 4px white solid;*/
+}
+
+#footer_blog {
+padding: 2rem;
+}
